@@ -1,0 +1,5 @@
+const headColor= document.getElementById("head");
+headColor.style.color= "#00ff9f"
+
+const banner = document.getElementById("nav")
+banner.style.backgroundColor = "white;"
